@@ -98,6 +98,7 @@ Evaluation and Feedback:
     you can't propagate.
 
 -> Writing Feedback
+
      1) Instead of "GMAT outputs are based on multiple factors such as the inputs and methodology
       chosen for a certain calculation to take place."
       Write:

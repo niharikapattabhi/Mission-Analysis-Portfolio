@@ -11,3 +11,8 @@ Adding terminology for a more professional vocabulary:
 9) State Vector - Position + velocity
 10) Telemetry - Housekeeping and payload data from spacecraft
 11) Engineering assumptions - information that is already known
+12) Third-body perturbations - disturbance to orbit of spacecraft due to gravity of third body (sun, moon, etc)
+13) State propagation - updating current state forward across time
+14) Closed-form solution - mathematical formula or expression that provides eact answer
+15) Barycenter - common center of mass (COM) of bodies orbiting each other
+16) Initial value problem - problem is an ordinary differential equation (ODE) or partial differential equation that has its consitions specified at t = t_0 (initial conditions)
